@@ -1,9 +1,9 @@
 /* 
-    Group 6
+    
  
     @authors:  
-    Munoz Yohana @student Number 2013664 
-    Perez Jinger @student Number 2013665                   
+    fekieeyoha 
+    fekiee                   
 */
 
 import java.util.Scanner;
